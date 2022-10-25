@@ -21,7 +21,7 @@ The following table shows a statistical analysis of temperature and precipitatio
 
 For convenience, we have also included the table in bitmap format.
 
-![surfs_up_summary](https://github.com/bristlab/surfs_up/blob/main/analysis/surfs_up_summary.png?raw=true)
+![surfs_up_summary](https://github.com/bristlab/surfs_up/blob/main/surfs_up_summary.png?raw=true)
 
 
 The table above was built by extracting the months of June and December from the dataset and comparing how the weather differs between seasons.
