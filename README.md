@@ -37,11 +37,11 @@ The temperatures in June and December are consistently pleasant, and while Decem
 
 We include two additional queries that collate precipitation data when building the table above.
 
-###June:
+### June:
 
 `june_prcp_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()`
 
-###December:
+### December:
 
 `december_prcp_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==12).all()`
 
